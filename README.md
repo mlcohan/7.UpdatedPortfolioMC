@@ -40,8 +40,8 @@ The `Images` file contains six pictures that are utilized in the `index.html` fi
 
 
 
-
-
+https://github.com/mlcohan/8.UpdatedPortfolioMC/
+https://mlcohan.github.io/8.UpdatedPortfolioMC/
 
 
 
