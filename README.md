@@ -1,66 +1,53 @@
 # 8.UpdatedPortfolioMC
 
 
+## About
+I have created a responsive portfolio to for future employees to access information about Mary Cohan (me)
 
-## Overview
+- If the user wants to view my contact information, they will click on the "Contact" tab to find my current location, phone number, email address, a link to my LinkedIn profile, a link to my GitHub portfolio and a link to a pdf of my resume. (Screenshot 1)
 
-For this homework assignment, we have just learned about Bootstrap and I have created a responsive portfolio.  
-I utilized the Bootstrap templetes to help me create a navbar, a card, a form and responsiveness. 
+- If user wants to view a portfolio of my web developer work, they will click on the "Porfolio" tab to find 3 of my projects.  For each project they will see a picture of the app, a brief description and the deployed links. (Screenshot 2, 3, 4)
 
-There are three html files: `index.html`, `portfolio.html` and `contact.html`
-
-    Each page has a consistent navbar with my name large and responsive links to to all 3 pages, including the current page. 
-    When the page is viewed at different sizes, the navbar and content responds.
-
-There is also an `Assets`  file containing an `Images` file and a `style.css` (not finished)
-
-The `Images` file contains six pictures that are utilized in the `index.html` file and the `portfolio.html` file
+- If the user wants to read more about me, they will click on the "About Me" tab to find a short bio and a preview/link of my LinkedIn account. (Screenshot 5)
 
 
 
-## Details
+## User Story:
+
+AS A devoted future employer of Mary Cohan <br>
+I WANT to be able to view necessary information <br>
+SO THAT I can decide why I want to hire her.
 
 
-* `index.html`
-    - Repsonsive Navbar with responsive links to all 3 pages
-    - Responsive Card container with `img` and title and text and <a> to my LinkedIn
 
+## Screenshots 
 
+ Screenshot 1:
 
-* `porfolio.html`
-    - Repsonsive Navbar with responsive links to all 3 pages
-    - Responsive Card Container with 2 `col` and 3 `row` to display 6 `img`
+ Screenshot 2:
 
+ Screenshot 3:
 
-* `contact.html`
-    - Responsive Navbar with responsive links to all 3 pages
-    - Responsive Form Container with 3 inputs, `Name`, `Email`, `Message`
+ Screenshot 4:
+
+ Screenshot 5:
 
 
 
 
 
-https://github.com/mlcohan/8.UpdatedPortfolioMC/
+
+
+## Links to Deployed App
+
+https://github.com/mlcohan/8.UpdatedPortfolioMC/ <br>
 https://mlcohan.github.io/8.UpdatedPortfolioMC/
 
 
 
-### Assignment Requirements
 
-* Functional, deployed application
 
-* GitHub repository with README describing the project
 
-* Navbar must be consistent on each page.
 
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
 
-* All links must work.
 
-* Must use semantic html.
-
-* Each page must have valid and correct HTML. (use a validation service)
-
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
-
-* Must properly utilize Bootstrap components and grid system.
