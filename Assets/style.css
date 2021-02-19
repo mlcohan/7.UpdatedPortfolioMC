@@ -1,5 +1,25 @@
 body{
     background-color: darkslateblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+html{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.app{
+    border: double darkslateblue;
+}
+
+.grey{
+    background-color: lightgray;
+    border: double darkslateblue
+}
+
+.white{
+    background-color: white;
+    border-style: double;
+    border-color: darkslateblue;
+    padding: 10px;
 }
 
 .projectDiv{
@@ -24,3 +44,5 @@ body{
     color:blueviolet
 
 }
+
+
